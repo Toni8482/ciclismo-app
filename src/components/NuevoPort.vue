@@ -2,7 +2,7 @@
     <div>
     <RouterLink to="/" class="btn">Tablas</RouterLink>
     <div class="formulari">
-        <h1>Nuevo port</h1>
+        <h1>Nuevo puerto</h1>
 
         <label for="nombre" type="text">Nombre: <input v-model="puertoNuevo.nom" id="nombre"></label>
         <label for="altitud" type="text">Altitud: <input v-model="puertoNuevo.altitud" id="altitud"></label>

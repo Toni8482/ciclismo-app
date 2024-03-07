@@ -6,7 +6,7 @@
 <h2>{{ volta.nom }}</h2>
 <tr>
 
-    <th>Nom</th>
+    <th>Nombre</th>
     <th>Altitud</th>
     <th>Pais</th>
     <th>Acciones</th>

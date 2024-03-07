@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-<h1>Voltes ciclistes</h1>
+<h1>Vueltas ciclistas</h1>
   <RouterView :ports="dadesPorts" :voltes="dadesVoltes" @dades-enviades="nuevoPort"
    @dades-puerto-editado="editarPort" @eliminar-port="eliminarPort">
   </RouterView>
